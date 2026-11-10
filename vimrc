@@ -67,9 +67,6 @@ endif
 " Ensure Vim uses filetype plugins
 filetype plugin on
 
-" Enable indentation
-filetype indent on
-
 " Set the default indentation to 2 spaces for all files
 set tabstop=2
 set softtabstop=2
